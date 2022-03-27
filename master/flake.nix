@@ -11,6 +11,7 @@
   inputs.src-nimmonocypher-master.ref   = "refs/heads/master";
   inputs.src-nimmonocypher-master.owner = "genotrance";
   inputs.src-nimmonocypher-master.repo  = "nimmonocypher";
+  inputs.src-nimmonocypher-master.dir   = "";
   inputs.src-nimmonocypher-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
